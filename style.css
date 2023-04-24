@@ -132,7 +132,7 @@ footer p {
 
 /* -------  Media Query ------- */
 @media all and (min-width: 480px) {
-  form .item item-double {
+  form .item {
    display: flex;
    flex-wrap: wrap;
    justify-content: space-evenly;
